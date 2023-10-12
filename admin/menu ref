@@ -1,0 +1,23 @@
+
+  <h3>ADMIN MENU</h3>
+   <div>
+        <ul>
+            <li><a href="adminchangepasswordform.php">Change Password</a></li>
+            <li><a href="addcategoryform.php">Add Category</a></li>
+            <li><a href="viewcategory.php">View Category</a></li>
+            <li><a href="viewcategory.php">Add Book</a></li>
+            <li><a href="viewbook.php">View Book</a></li>
+            <li><a href="viewcategory.php">Add pdf</a></li>
+            <li><a href="viewfaculty.php">Faculty details</a></li>
+            <li><a href="viewstudent.php">Student details</a></li>
+            <li><a href="viewcategory.php">Browse Books</a></li>
+            <li><a href="viewbookdetails.php">View book details</a></li>
+            <li><a href="viewreservedbook.php">View reserved book</a></li>
+            <li><a href="viewreservedbook.php">Faculty issue books</a></li>
+            <li><a href="viewreservedbook.php">Student issue books</a></li>
+            <li><a href="viewissuedbooks.php">View issued books</a></li>
+            <li><a href="viewreturnedbooks.php">View returned books</a></li>
+            <li><a href="adminlogout.php">Logout</a></li>
+            
+        </ul>
+   </div>
